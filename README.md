@@ -7,7 +7,7 @@ Rader B, Scarpino SV, Nande A, Hill A, Adlam B, Reiner RC, Pigott DM, Gutierrez 
 open COVID-19 data working group, Brownstein JS, Castro MC, Tian H, Pybus OG, Kraemer MUG. In press.
 Crowding and the shape of COVID-19 epidemics. _in press_ Nature Medicine. 
 
-doi: HOLD
+doi: https://doi.org/10.1038/s41591-020-1104-0
 
 manuscript version of the code and data can be accessed via Zenodo:  [![DOI](https://zenodo.org/badge/299311245.svg)](https://zenodo.org/badge/latestdoi/299311245)
 
